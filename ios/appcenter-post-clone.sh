@@ -14,7 +14,7 @@ set -e
 # debug log
 set -x
 
-pod setup
+#pod setup
 
 cd ..
 git clone -b beta https://github.com/flutter/flutter.git
